@@ -1,0 +1,34 @@
+{
+    "doSpawnNPC": true,
+    "doSpawnVehicles": false,
+
+    "PlayerMaxHealth": 150,
+    "PlayerSpawnHealth": 150,
+
+    "PlayerMaxArmor": 100,
+    "PlayerSpawnArmor": 20,
+
+    "PlayerJumpPower": 200,
+
+    "PlayerAllowFlashlight": true,
+
+    "PlayerStartMoney": 300,
+
+    "PlayerRandomModel": {
+        "1": "models/player/arctic.mdl",
+        "2": "models/player/riot.mdl",
+        "3": "models/player/swat.mdl",
+        "4": "models/player/urban.mdl"
+    },
+
+    "PlayerCustomModel": {
+        "1": {
+            "nick": "kirk1448",
+            "model": "models/survivors/manuka_arietta.mdl"
+        },
+        "2": {
+            "nick": "Aubr3y",
+            "model": "models/survivors/manuka_arietta.mdl"
+        }
+    }
+}

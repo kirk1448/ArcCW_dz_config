@@ -1,0 +1,106 @@
+{
+    "1": {
+        "mode": 0,
+        "printName": "Crowbar (300$)",
+        "xPos": 0,
+        "yPos": 0,
+        "itemEntity": "weapon_crowbar",
+        "cost": 300
+    },
+    "2": {
+        "mode": 0,
+        "printName": "Glock17 (700$)",
+        "xPos": 1,
+        "yPos": 0,
+        "itemEntity": "arccw_ud_glock",
+        "cost": 700
+    },
+    "3": {
+        "mode": 0,
+        "printName": "M16 (3.000$)",
+        "xPos": 2,
+        "yPos": 0,
+        "itemEntity": "arccw_ud_m16",
+        "cost": 3000
+    },
+    "4": {
+        "mode": 0,
+        "printName": "M4 Super 90 (1.500$)",
+        "xPos": 3,
+        "yPos": 0,
+        "itemEntity": "arccw_ud_m1014",
+        "cost": 1500
+    },
+    "5": {
+        "mode": 0,
+        "printName": "Mini-14 (2.000$)",
+        "xPos": 4,
+        "yPos": 0,
+        "itemEntity": "arccw_ud_mini14",
+        "cost": 2000
+    },
+    "6": {
+        "mode": 0,
+        "printName": "Uzi (2.500$)",
+        "xPos": 5,
+        "yPos": 0,
+        "itemEntity": "arccw_ud_uzi",
+        "cost": 2500
+    },
+    "7": {
+        "mode": 1,
+        "printName": "Pistol Ammo (100$)",
+        "xPos": 1,
+        "yPos": 1,
+        "itemEntity": "arccw_ammo_pistol",
+        "cost": 100
+    },
+    "8": {
+        "mode": 1,
+        "printName": "Rifle Ammo (400$)",
+        "xPos": 2,
+        "yPos": 1,
+        "itemEntity": "arccw_ammo_smg1",
+        "cost": 400
+    },
+    "9": {
+        "mode": 1,
+        "printName": "Shotgun Ammo (300$)",
+        "xPos": 3,
+        "yPos": 1,
+        "itemEntity": "arccw_ammo_buckshot",
+        "cost": 300
+    },
+    "10": {
+        "mode": 1,
+        "printName": "Sniper Scope (300$)",
+        "xPos": 6,
+        "yPos": 1,
+        "itemEntity": "acwatt_uc_optic_trijicon_tars",
+        "cost": 300
+    },
+    "11": {
+        "mode": 0,
+        "printName": "Medkit (500$)",
+        "xPos": 0,
+        "yPos": 2,
+        "itemEntity": "weapon_medkit",
+        "cost": 500
+    },
+    "12": {
+        "mode": 1,
+        "printName": "Frag (100$)",
+        "xPos": 1,
+        "yPos": 2,
+        "itemEntity": "weapon_frag",
+        "cost": 100
+    },
+    "13": {
+        "mode": 1,
+        "printName": "Slam (100$)",
+        "xPos": 2,
+        "yPos": 2,
+        "itemEntity": "weapon_slam",
+        "cost": 100
+    }
+}
